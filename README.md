@@ -2,7 +2,7 @@
 
 Um jogo da velha clássico (tic-tac-toe) feito com HTML, CSS e JavaScript puro. Dois jogadores se revezam para marcar X e O em um tabuleiro 3x3 até que um deles vença ou ocorra um empate.
 
-🔗 **Acesse o projeto online:** [GitHub Pages](https://github.com/endriusssantos/jogo-da-velha)
+🔗 **Acesse o projeto online:** [GitHub Pages](https://endriusssantos.github.io/jogo-da-velha/)
 
 ---
 
